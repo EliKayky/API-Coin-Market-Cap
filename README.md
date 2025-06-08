@@ -4,7 +4,7 @@ Projeto acadêmico desenvolvido para a disciplina de Programação para Disposit
 
 ---
 
-### ✨ Funcionalidades
+### Funcionalidades
 
 - [x] **Listagem de Criptomoedas:** Exibe uma lista de moedas com nome, símbolo e cotação em USD e BRL.
 - [x] **Dados Padrão:** Carrega uma lista pré-definida de criptomoedas ao iniciar.
@@ -16,7 +16,7 @@ Projeto acadêmico desenvolvido para a disciplina de Programação para Disposit
 
 ---
 
-### 🏛️ Arquitetura
+### Arquitetura
 
 O projeto foi estruturado utilizando a arquitetura **MVVM (Model-View-ViewModel)** para garantir uma clara separação de responsabilidades:
 
@@ -27,7 +27,7 @@ O projeto foi estruturado utilizando a arquitetura **MVVM (Model-View-ViewModel)
 
 ---
 
-### 🛠️ Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 -   **[Flutter](https://flutter.dev/)**
 -   **[Dart](https://dart.dev/)**
@@ -38,7 +38,7 @@ O projeto foi estruturado utilizando a arquitetura **MVVM (Model-View-ViewModel)
 
 ---
 
-### 🚀 Como Executar o Projeto
+### Como Executar o Projeto
 
 Siga os passos abaixo para rodar o projeto em sua máquina.
 
@@ -79,8 +79,6 @@ Pronto! O aplicativo deve iniciar em seu emulador ou dispositivo.
 
 ---
 
-### 👨‍💻 Autor
+### Autor
 
-Feito por **[ELI KAYKY ELIAS BALZANI]** 👋
-
-[![LinkedIn](https://www.linkedin.com/in/eli-kayky-elias-balzani-a12063274/)
+Feito por **[ELI KAYKY ELIAS BALZANI]** 
